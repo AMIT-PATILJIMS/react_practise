@@ -1,0 +1,21 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "description": "for practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "new pro"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Amit Patil",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^4.0.3"
+  }
+}
